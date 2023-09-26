@@ -3,7 +3,7 @@
 
 👾 I like to develop average projects and automate boring things
 
-💪 I'm self taught but that doesn't mean I'm weak in development (check it in my codes😋)
+💪 I'm self taught but that doesn't mean I'm weak in development
 
 `It’s those who are earlier than the others, those who put in more effort, who can enjoy the feeling of success `
 
