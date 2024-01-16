@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Yurri
+# 👋 Hey there! I'm Yurii
 ## 👨🏻‍💻  About Me
 
 👾 I like to develop average projects and automate boring things
