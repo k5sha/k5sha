@@ -26,5 +26,5 @@
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ## ⚙️  GitHub Analytics
 
-![K5sha's GitHub stats](https://github-readme-stats.vercel.app/api?username=k5sha&show_icons=true&theme=tokyonight)
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k5sha&layout=compact&theme=tokyonight)
+![K5sha's GitHub stats](https://github-readme-stats.vercel.app/api?username=k5sha&show_icons=true&theme=gruvbox)
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k5sha&layout=compact&theme=gruvbox)
