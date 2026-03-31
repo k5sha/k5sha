@@ -4,3 +4,4 @@
 1. [The entrypoint of projects](https://github.com/k5sha/k5sha-gitops)
 2. [Task for the Hackathon](https://github.com/k5sha/Online-Boutique)
 3. [The retail store sample](https://github.com/k5sha/retail-store-sample-app-exit)
+4. [Coding Theory Lab](https://github.com/k5sha/calculator)
